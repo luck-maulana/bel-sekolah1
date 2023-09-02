@@ -3,24 +3,28 @@
         "id" : "1",
         "name" : "Design1",
         "image": "https://luck-maulana.github.io/cv-data/image/avatar.jpg"
-    }  
-{
+    }, 
+    {
         "id" : "2",
         "name" : "Design2",
         "image": "https://luck-maulana.github.io/cv-data/image/avatar.jpg"
-    }{
+    },
+    {
         "id" : "3",
         "name" : "Design3",
         "image": "https://luck-maulana.github.io/cv-data/image/avatar.jpg"
-    }{
+    },
+    {
         "id" : "4",
         "name" : "Design2",
         "image": "https://luck-maulana.github.io/cv-data/image/avatar.jpg"
-    }{
+    },
+    {
         "id" : "5",
         "name" : "Design2",
         "image": "https://luck-maulana.github.io/cv-data/image/avatar.jpg"
-    }{
+    },
+    {
         "id" : "6",
         "name" : "Design2",
         "image": "https://luck-maulana.github.io/cv-data/image/avatar.jpg"
